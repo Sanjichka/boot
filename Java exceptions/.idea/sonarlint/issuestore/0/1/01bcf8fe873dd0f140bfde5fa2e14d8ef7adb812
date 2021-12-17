@@ -1,0 +1,19 @@
+
+X
+java:S1854E"6Remove this useless assignment to local variable "fr".(ÕÇƒ—øÿÿÿÿ8ñèÖ™Û/
+Q	java:S125"<This block of commented-out lines of code should be removed.(¬ÏÌ²
+Q	java:S125"<This block of commented-out lines of code should be removed.(¬ÏÌ²
+Q	java:S125"<This block of commented-out lines of code should be removed.(¬ÏÌ²
+Q	java:S125"<This block of commented-out lines of code should be removed.(¬ÏÌ²
+Q	java:S125("<This block of commented-out lines of code should be removed.(¬ÏÌ²
+X	java:S1257"<This block of commented-out lines of code should be removed.(¬ÏÌ²8€©Í™Û/
+c
+java:S1075C"ARefactor your code to get this URI from a customizable parameter.(©¹Øÿÿÿÿÿ8–¦Õ™Û/
+I
+java:S1481E"'Remove this unused "fr" local variable.(ÕÇƒ—øÿÿÿÿ8éÖ™Û/
+L
+java:S1197K"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8âüÍ™Û/
+0
+java:S1220""Move this file to a named package.
+j
+java:S2095E"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÕÇƒ—øÿÿÿÿ8éÖ™Û/
